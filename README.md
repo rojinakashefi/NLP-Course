@@ -47,7 +47,7 @@
   
   4. [Evaluation metrics](https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec)
   
-  5. [Difference between word2vec and embedding layer]([Difference between Gensim word2vec and keras Embedding layer - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/61603/difference-between-gensim-word2vec-and-keras-embedding-layer)) 
+  5. [Difference between word2vec and embedding layer](https://datascience.stackexchange.com/questions/61603/difference-between-gensim-word2vec-and-keras-embedding-layer)
 
 ### week 6
 
