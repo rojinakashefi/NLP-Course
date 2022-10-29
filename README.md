@@ -51,9 +51,9 @@
 
 ### week 6
 
-- **Class:**
+- **Class:** Dialogue systems, general chatbots (Conversational agent), tasked-based chatbots, rule base or corpus base conversational agents, Turning, Speech act, grounding, subdialogues, initative, inference, Eliza and Parry as Rule base conversational agent, information retrival in corpus base, Neural text matching, Representation base model, interaction base model, hybrid model, Generation methods,
 
-- **Homework:**
+- **Homework:** Seq2Seq models, Dialogue systems, Transformers, Encoder-decoders.
   
   Check these articles:
   
