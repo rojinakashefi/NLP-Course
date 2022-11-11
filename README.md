@@ -24,6 +24,8 @@
   Check this articke:
   
   1. [Word Embedding](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/)
+  2. [Introduction to Word Embedding and Word2Vec](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+  3. [Difference between Word2vec and onehot representation](https://datascience.stackexchange.com/questions/29851/one-hot-encoding-vs-word-embedding-when-to-choose-one-or-another#:~:text=They%20also%20differ%20at%20the,together%20in%20the%20representation%20space.)
 
 ### week 4
 
