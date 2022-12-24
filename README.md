@@ -2,7 +2,7 @@
 
 ## Project
 
-Implemented a ***chatbot*** which using <u>intent detection model</u> undrestand user intention and using <u>slotfilling model</u> get information from user query and will recommend us a resturant.
+Implemented a ***chatbot*** , using <u>intent detection model</u> which undrestands user intention and  <u>slotfilling model</u> to get information from user query and will recommend us a resturant based on our query.
 
 ## Course material
 
