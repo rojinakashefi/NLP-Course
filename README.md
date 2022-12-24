@@ -1,5 +1,7 @@
 # Natural Language Processing
 
+
+
 ### week 1
 
 - **Class:** Lingusitics knowledge, NLP challenges, Probabilistic Language modeling, Word token vs. Word type
@@ -82,5 +84,11 @@
   3. [BERT](**[Deep explanation fo Bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)**)
   
   4. [BERT family](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
-  
-  5. 
+
+## Project
+
+1. Implemented a model with fill **slots**  from text.
+
+2. Implemented a model which undrestand **intent** from text.
+
+3. **Create a chatbot which using intent detection model and slotfilling model will recommend us a resturant.**
