@@ -1,6 +1,10 @@
 # Natural Language Processing
 
+## Project
 
+Implemented a ***chatbot*** which using <u>intent detection model</u> undrestand user intention and using <u>slotfilling model</u> get information from user query and will recommend us a resturant.
+
+## Course material
 
 ### week 1
 
@@ -86,9 +90,3 @@
   4. [BERT family](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
 
 ## Project
-
-1. Implemented a model with fill **slots**  from text.
-
-2. Implemented a model which undrestand **intent** from text.
-
-3. **Create a chatbot which using intent detection model and slotfilling model will recommend us a resturant.**
