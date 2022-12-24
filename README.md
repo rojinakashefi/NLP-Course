@@ -4,7 +4,7 @@
 
 Implemented a ***chatbot*** , using <u>intent detection model</u> which undrestands user intention and  <u>slotfilling model</u> to get information from user query and will recommend us a resturant based on our query.
 
-## Homework
+## Homeworks
 
 ### week 1
 
@@ -110,4 +110,4 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
 
 ## Notes
 
-Check my class notes [here]().
+Check my class notes [here](https://github.com/rojinakashefi/NLP-Course/blob/main/nlp-class.pdf).
