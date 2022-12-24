@@ -102,9 +102,9 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
   
   1. [Statistic vs Contextualizer word representation](https://ted-mei.medium.com/from-static-embedding-to-contextualized-embedding-fe604886b2bc#:~:text=The%20main%20problem%20that%20word,considers%20contextual%20information%20into%20play.)
   
-  2. [GPT models]([The journey of open ai gpt models](https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2))
+  2. [GPT models](https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2)
   
-  3. [BERT]([Deep explanation fo Bert](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270))
+  3. [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
   
   4. [BERT family](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
 
