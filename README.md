@@ -4,18 +4,47 @@
 
 Implemented a ***chatbot*** , using <u>intent detection model</u> which undrestands user intention and  <u>slotfilling model</u> to get information from user query and will recommend us a resturant based on our query.
 
+## Homework
+
+### week 1
+
+- Unigram Language model, Bigram Language model, N-gram Language model, Zipfs law, Words probability using Ngram models
+
+### week 2
+
+- Bayesian smoothing with dirichlet prior, Perplexity of sentence and corpus, trigram neural language model using feed forward network
+
+### week 3
+
+- gensim word2vec and doc2vec, TSNE for visualizing high dimensional plots, TF-IDF implementation, find document similarity using word2vec weighted mean average by tf-idf and doc2vec model
+
+### week 4
+
+- Hazm and parsivar Library, Levenshtein distance calculation
+
+### week 5
+
+- Word2Vec model, RNN, LSTM, GRU, Attention, f1-score, Accuracy, Recall, Precision
+
+### week 6
+
+- Seq2Seq models, Dialogue systems, Transformers, Encoder-decoders.
+
+### week 7
+
+- Transformer, Bert Tokenizer, Retrival based chatbot
+
+
+
 ## Course material
 
 ### week 1
 
 - **Class:** Lingusitics knowledge, NLP challenges, Probabilistic Language modeling, Word token vs. Word type
-- **Homework:** Unigram Language model, Bigram Language model, N-gram Language model, Zipfs law, Words probability using Ngram models.
 
 ### week 2
 
 - **Class:** Smoothing, Laplace smoothing, backoff and interpolation, Bayesian smoothing with drichlet prior, Absolute discounting, Kneser-ney Smoothing, Bayesian smoothing based on  pitman-yor process, Entropy, Perplexity
-
-- **Homework:** Bayesian smoothing with dirichlet prior, Perplexity of sentence and corpus, trigram neural language model using feed forward network
   
   Check this article:
   
@@ -24,8 +53,6 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
 ### week 3
 
 - **Class:** Spare word representation, Dense word representation, term-document matrix, cosine similarity, tf-idf, positive point wise mutual information, SVD, brow clustering, skip-gram and CBOW, GLOVE
-
-- **Homework:** gensim word2vec and doc2vec, TSNE for visualizing high dimensional plots, TF-IDF implementation, find document similarity using word2vec weighted mean average by tf-idf and doc2vec model
   
   Check this articke:
   
@@ -37,13 +64,9 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
 
 - **Class:** Tokenization, Normalization, Lemmatization, Stemming, Stopword removal, Minimum edit distance, 
 
-- **Homework:** Hazm and parsivar Library, Levenshtein distance calculation
-
 ### week 5
 
 - **Class:** Recurrent neural networks, Vanishing graident descent, LSTM, GRU, Bidirectional RNN, Bidirectional LSTM, Bidirectional GRU, Transformers, Attention.
-
-- **Homework:** Word2Vec model, RNN, LSTM, GRU, Attention, f1-score, Accuracy, Recall, Precision.
   
   Check these articles:
   
@@ -59,9 +82,7 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
 
 ### week 6
 
-- **Class:** Dialogue systems, general chatbots (Conversational agent), tasked-based chatbots, rule base or corpus base conversational agents, Turning, Speech act, grounding, subdialogues, initative, inference, Eliza and Parry as Rule base conversational agent, information retrival in corpus base, Neural text matching, Representation base model, interaction base model, hybrid model, Generation methods,
-
-- **Homework:** Seq2Seq models, Dialogue systems, Transformers, Encoder-decoders.
+- **Class:** Dialogue systems, general chatbots (Conversational agent), tasked-based chatbots, rule base or corpus base conversational agents, Turning, Speech act, grounding, subdialogues, initative, inference, Eliza and Parry as Rule base conversational agent, information retrival in corpus base, Neural text matching, Representation base model, interaction base model, hybrid model, Generation methods.
   
   Check these articles:
   
@@ -75,9 +96,7 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
 
 ### week 7
 
-- **Class:** Contextualized representation, Elmo, Bert, masked language model, next sentence prediction, Bert family, GPT,
-
-- **Homework:** Transformer, Bert Tokenizer, Retrival based chatbot
+- **Class:** Contextualized representation, Elmo, Bert, masked language model, next sentence prediction, Bert family, GPT.
   
   Check these articles:
   
@@ -89,4 +108,6 @@ Implemented a ***chatbot*** , using <u>intent detection model</u> which undresta
   
   4. [BERT family](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
 
-## Project
+## Notes
+
+Check my class notes [here]().
